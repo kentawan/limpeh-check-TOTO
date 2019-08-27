@@ -10,7 +10,7 @@ python HuatAh.py --my_buy "1,2,3,4,5,6" --my_result "1,2,3,4,5,6"
 
 Arguments:
 
---my_buy      Insert a comma separated string of your numbers.
+--my_buy      Insert a comma separated string of your numbers. \
 --my_result   Insert a comma separated string of the TOTO winning numbers.
 
 
